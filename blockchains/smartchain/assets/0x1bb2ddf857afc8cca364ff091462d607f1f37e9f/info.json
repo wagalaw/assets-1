@@ -5,7 +5,7 @@
     "type": "BEP20",
     "decimals": 9,
     "website": "www.minisoccertoken.net",
-    "explorer": "https://bscscan.com/token/0x1bb2ddf857afc8cca364ff091462d607f1f37e9f"
+    "explorer": "https://bscscan.com/token/0x1bb2ddf857afc8cca364ff091462d607f1f37e9f",
     "reflections": true,
     "social": {
 	"twitter": "https://twitter.com/minisoccerbsc", 
